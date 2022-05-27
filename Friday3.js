@@ -19,4 +19,4 @@ console.log("2", a)
 
 house():
 
-
+console.log("3",a)
